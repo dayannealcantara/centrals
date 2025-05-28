@@ -1,0 +1,66 @@
+{
+  "centrals": [
+    {
+      "id": "1",
+      "name": "Central 01",
+      "mac": "10:E0:09:00:50:00",
+      "modelId": 4
+    },
+    {
+      "id": "c34b",
+      "name": "Central 4",
+      "mac": "09:65:A5:67:89:90",
+      "modelId": 3
+    },
+    {
+      "id": "c5cc",
+      "name": "Central 5",
+      "mac": "78:65:43:E9:09:00",
+      "modelId": 1
+    },
+    {
+      "id": "6f12",
+      "name": "Central 6",
+      "mac": "89:89:89:89:89:89",
+      "modelId": 1
+    },
+    {
+      "id": "f81f",
+      "name": "Central 7",
+      "mac": "12:C5:68:75:10:90",
+      "modelId": 1
+    },
+    {
+      "id": "9ae3",
+      "name": "Teste",
+      "mac": "98:98:99:8A:90:90",
+      "modelId": 4
+    }
+  ],
+  "models": [
+    {
+      "id": "1",
+      "name": "AMT 4010"
+    },
+    {
+      "id": "2",
+      "name": "AMT 4010 SMART"
+    },
+    {
+      "id": "3",
+      "name": "AMT 2018"
+    },
+    {
+      "id": "4",
+      "name": "AMT 2018 E/EG"
+    },
+    {
+      "id": "5",
+      "name": "AMT 1000"
+    },
+    {
+      "id": "6",
+      "name": "AMT 8000"
+    }
+  ]
+}
