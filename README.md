@@ -42,7 +42,7 @@ O projeto base utiliza:
 - Integracao
 - Contador dinamico Header com o numero de Centrais
 
-## 🧠 Para iniciar os servidores:
+## Para iniciar os servidores:
 
 npm run start:dev (para rodar em simultaneo o server com banco de dados + server local da aplicacao)
 
